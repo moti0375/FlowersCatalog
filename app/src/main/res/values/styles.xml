@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="AppTheme" parent="AppTheme.Base">
+
+    </style>
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/lightBluePrimary</item>
+        <item name="colorPrimaryDark">@color/lightBlueDark</item>
+        <item name="colorAccent">@color/lightBlueAccent</item>
+        <item name="displayOptions">useLogo|showHome</item>
+        <item name="android:logo">@drawable/ic_launcher</item>
+        <item name="actionModeBackground">@color/lightBluePrimary</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="MyCustomToolBarTheme" parent="ThemeOverlay.AppCompat">
+        <item name="android:homeAsUpIndicator">@drawable/ic_action_back</item>
+    </style>
+
+    <style name="ListViewTheme" parent="ListViewTheme.Base">
+
+    </style>
+
+    <style name="MyBody" parent="AppTheme.Base">
+    </style>
+
+    <style name="MyHeader" parent="AppTheme.Base">
+        <item name="android:windowContentOverlay">@drawable/toolbar_shadow</item>
+        <item name="android:foreground">?android:windowContentOverlay</item>
+    </style>
+
+    <style name="ListViewTheme.Base" parent="AppTheme.Base">
+        <item name="android:activatedBackgroundIndicator">@drawable/custom_bg</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:divider">@color/primaryColorDark</item>
+    </style>
+
+    <style name="SettingsTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBar.V14.Flowers.NoTitle</item>
+    </style>
+</resources>

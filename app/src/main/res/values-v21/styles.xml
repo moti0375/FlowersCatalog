@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="android:colorPrimary">@color/lightBluePrimary</item>
+        <item name="android:colorPrimaryDark">@color/lightBlueDark</item>
+        <item name="android:colorAccent">@color/accentColor</item>
+        <item name="android:actionModeBackground">@color/primaryColorDark</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:statusBarColor">@color/lightBlueDark</item>
+    </style>
+
+    <style name="SettingsTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/lightBluePrimary</item>
+        <item name="android:colorPrimaryDark">@color/lightBlueDark</item>
+    </style>
+
+
+
+
+</resources>

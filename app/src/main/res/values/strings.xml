@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlowersCatalog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_flower_details">FlowerDetails</string>
+    <string name="by_price">BY PRICE</string>
+    <string name="sort_by_name">BY NAME</string>
+    <string name="data_source_key">data_source_key</string>
+    <string name="data_source_title">Flowers data source</string>
+    <string name="BackupFavorites">Backup Favorites</string>
+    <string name="ImportFavorites">Import Favorites</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_all">Delete Favorites</string>
+    <string name="urlDefault">http://services.hanselandpetal.com/feeds/flowers.xml</string>
+
+    <string name="http_key">http_key</string>
+    <string name="http_connection">HTTP Connection</string>
+
+</resources>

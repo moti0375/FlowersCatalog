@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="data_source_entries">
+        <item name="XML">XML</item>
+        <item name="JSON">JSON</item>
+    </string-array>
+
+    <string-array name="data_source_values">
+        <item name="XML">http://services.hanselandpetal.com/feeds/flowers.xml</item>
+        <item name="JSON">http://services.hanselandpetal.com/feeds/flowers.json</item>
+    </string-array>
+
+    <string-array name="drawer_list_names" >
+        <item name="1">Strubs</item>
+        <item name="2">Cactus</item>
+        <item name="3">Herbaseous Perennials</item>
+        <item name="4">Bonsai</item>
+        <item name="5">Pot Plant</item>
+        <item name="6">All Flowers</item>
+    </string-array>
+
+    <integer-array name="drawer_icons_ids">
+        <item name="1">@drawable/ic_action_ic_launcher</item>
+        <item name="2">@drawable/ic_action_cactus_icon</item>
+        <item name="3">@drawable/ic_action_ic_launcher</item>
+        <item name="4">@drawable/ic_action_bonsay</item>
+        <item name="5">@drawable/ic_action_pot_plant</item>
+        <item name="6">@drawable/ic_action_ic_launcher</item>
+    </integer-array>
+
+    <string-array name="http_entries">
+        <item name="STD">Standard</item>
+        <item name="OkHttp">OkHttp</item>
+    </string-array>
+
+    <string-array name="http_values">
+        <item name="STD">100</item>
+        <item name="OkHttp">200</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#673AB7</color>
+    <color name="primaryColorDark">#512DA8</color>
+    <color name="accentColor">#559CAD</color>
+
+    <color name="grayPrimaryColor">#9E9E9E</color>
+    <color name="grayPrimaryDark">#616161</color>
+    <color name="grayAccentColor">#000</color>
+
+    <color name="lightBluePrimary">#03A9F4</color>
+    <color name="lightBlueDark">#0288D1</color>
+    <color name="lightBlueAccent">#76FF03</color>
+
+    <color name="drawer_orange_primary">#FF9800</color>
+    <color name="drawer_primary">#BCAAA4</color>
+
+    <color name="colorHighlight">#B6B6B6</color>
+
+</resources>
